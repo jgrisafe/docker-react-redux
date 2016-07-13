@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "author": "John Steinbeck",
+        "text": "This is one comment"
+    },
+    {
+        "id": "2",
+        "author": "Jordan Smith",
+        "text": "This is *another* comment"
+    },
+    {
+        "id": 1468256763612,
+        "author": "Pete Johnson",
+        "text": "WHAAAATTTTTTTUUPPP!!!!"
+    },
+    {
+        "id": 1468256996124,
+        "author": "Joey",
+        "text": "Yo"
+    },
+    {
+        "id": 1468339159991,
+        "author": "Richard Dawkins",
+        "text": "meh"
+    }
+]
